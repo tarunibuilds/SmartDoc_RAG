@@ -52,7 +52,30 @@ PDF/Documents → Text Extraction → Embeddings → ChromaDB Vector Storage →
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+### Homepage
+
+![Homepage](assets/homepage.png)
+
+### Audio Transcription
+
+![Audio Transcription](assets/audio_transcription.png)
+
+### Notes Generation
+
+![Notes Generation](assets/notes_generation.png)
+
+### MCQ Assessment
+
+![MCQ Assessment](assets/mcq_assessment.png)
+
+### PDF Question Answering
+
+![PDF Question Answering](assets/pdf_question_answering.png)
+
+### Performance Evaluation
+
+![Performance Evaluation](assets/performance_evaluation.png)
+
 
 Example:
 
