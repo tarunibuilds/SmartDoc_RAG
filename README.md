@@ -66,7 +66,7 @@ PDF/Documents → Text Extraction → Embeddings → ChromaDB Vector Storage →
 
 ### MCQ Assessment
 
-![MCQ Assessment](assets/mcq_assessment.png)
+![MCQ Assessment](./assets/mcq_assessment.png)
 
 ### PDF Question Answering
 
