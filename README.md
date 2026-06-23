@@ -1,20 +1,119 @@
-# SmartDoc-RAG
-AI-Based Academic Document Retrieval and Learning Assistant
+# SmartDoc-RAG 📚🤖
 
-## Description
-SmartDoc-RAG is a Retrieval-Augmented Generation (RAG) based academic assistant 
-that enables semantic search over PDF documents, audio transcription, 
-viva question generation, and MCQ-based evaluation.
+An end-to-end Generative AI learning assistant built using LangChain, ChromaDB, HuggingFace, and Faster-Whisper for semantic document search, automated lecture transcription, MCQ generation, and intelligent question answering.
 
-## Modules
-1. PDF Semantic Search
-2. Audio Transcription using Faster-Whisper
-3. Viva Question Generation
-4. MCQ Assessment and Evaluation
+---
 
-## How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
+## 🚀 Features
 
-2. Run application:
-   streamlit run app.py
+* 📄 Semantic search over academic PDFs
+* 🎙️ Lecture transcription using Faster-Whisper
+* 🧠 Retrieval-Augmented Generation (RAG) pipeline
+* ❓ AI-powered MCQ generation
+* ⚡ Real-time question answering
+* 📊 Automated scoring and feedback system
+* 🌐 Interactive Streamlit interface
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+* Python
+* Streamlit
+* LangChain
+
+### AI / ML
+
+* HuggingFace Embeddings
+* Faster-Whisper
+* NLP
+* Generative AI
+* RAG Pipelines
+
+### Database
+
+* ChromaDB
+
+### Libraries
+
+* Pandas
+* NumPy
+* Scikit-learn
+
+---
+
+## 🧩 Project Architecture
+
+PDF/Documents → Text Extraction → Embeddings → ChromaDB Vector Storage → RAG Pipeline → LLM Response Generation
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots of your application here*
+
+Example:
+
+```bash
+assets/homepage.png
+assets/chat_interface.png
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/SmartDoc-RAG.git
+cd SmartDoc-RAG
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📌 Future Improvements
+
+* Multi-document support
+* Voice-based interaction
+* Cloud deployment
+* Advanced evaluation metrics
+* Personalized learning recommendations
+
+---
+
+## 👩‍💻 Author
+
+**Taruni Middela**
+
+* AI & Machine Learning Enthusiast
+* Interested in Generative AI, NLP, and Intelligent Systems
+
+LinkedIn: https://linkedin.com/in/taruni-middela
+
+---
+
+## ⭐ Acknowledgements
+
+Built using:
+
+* LangChain
+* HuggingFace
+* ChromaDB
+* Faster-Whisper
+* Streamlit
+
