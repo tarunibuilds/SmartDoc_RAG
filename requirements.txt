@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+huggingface-hub
+faster-whisper
+torch
+transformers
+pypdf
+numpy
+pandas
+scikit-learn
