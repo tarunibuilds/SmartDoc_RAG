@@ -117,7 +117,7 @@ streamlit run app.py
 * AI & Machine Learning Enthusiast
 * Interested in Generative AI, NLP, and Intelligent Systems
 
-LinkedIn: https://linkedin.com/in/taruni-middela
+LinkedIn: www.linkedin.com/in/tarunimiddela
 
 ---
 
