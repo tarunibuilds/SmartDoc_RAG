@@ -75,14 +75,7 @@ PDF/Documents → Text Extraction → Embeddings → ChromaDB Vector Storage →
 ### Performance Evaluation
 <img width="959" height="539" alt="Performance Evaluation" src="https://github.com/user-attachments/assets/16b88804-b821-44eb-b2a7-fc6901800e9b" />
 
-Example:
 
-```bash
-assets/homepage.png
-assets/chat_interface.png
-```
-
----
 
 ## ⚙️ Installation
 
