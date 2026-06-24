@@ -1,12 +1,10 @@
 streamlit
 langchain
+langchain-community
 chromadb
 sentence-transformers
-huggingface-hub
-faster-whisper
-torch
-transformers
 pypdf
-numpy
-pandas
-scikit-learn
+python-docx
+transformers
+torch
+huggingface-hub
