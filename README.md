@@ -53,22 +53,28 @@ PDF/Documents → Text Extraction → Embeddings → ChromaDB Vector Storage →
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](assets/homepage.png)
+<img width="959" height="539" alt="homepage" src="https://github.com/user-attachments/assets/f639c46e-9f44-4680-b441-b59ecab61f59" />
+
 
 ### Audio Transcription
-![Audio Transcription](assets/audio_transcription.png)
+<img width="947" height="539" alt="Audio Transcription" src="https://github.com/user-attachments/assets/5d38b244-342b-40d7-b4e5-4a8d524e6017" />
+
 
 ### Notes Generation
-![Notes Generation](assets/notes_generation.png)
+<img width="953" height="539" alt="Notes Generation" src="https://github.com/user-attachments/assets/950d3382-1999-41e9-9d27-49af13203d8e" />
+
 
 ### MCQ Assessment
-![MCQ Assessment](assets/mcq_assessment.png)
+<img width="959" height="539" alt="MCQ Assessment" src="https://github.com/user-attachments/assets/2d7d6a59-02b3-4713-8f5c-928909a4a712" />
+
 
 ### PDF Question Answering
-![PDF Question Answering](assets/pdf_question_answering.png)
+<img width="768" height="446" alt="PDF Question answering" src="https://github.com/user-attachments/assets/ec90cb3e-8207-4d6a-8c9c-58b66c075d30" />
+
 
 ### Performance Evaluation
-![Performance Evaluation](assets/performance_evaluation.png)
+<img width="959" height="539" alt="Performance Evaluation" src="https://github.com/user-attachments/assets/16b88804-b821-44eb-b2a7-fc6901800e9b" />
+
 Example:
 
 ```bash
